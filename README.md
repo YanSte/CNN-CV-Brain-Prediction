@@ -17,13 +17,10 @@ The primary goal of this project is to facilitate the diagnosis and treatment of
 ## 2. Dataset Overview
 Data is sourced from RSNA and MICCAI, two reputable organizations in the medical imaging community. For more details, visit [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/data?select=train_labels.csv).
 
-## 3. Research Efforts
-We initially investigated the Unit-net architecture but found that it did not produce satisfactory results for this specific classification problem. As a result, alternative approaches are being explored.
-
-## 4. Objectives
+## 3. Objectives
 - To predict the MGMT promoter methylation status of glioblastoma tumors between values of 0 and 1.
 
-## 5. References and Research Sources
+## 4. References and Research Sources
 - [Various papers and articles](#)
 
 ## 6. Implementation
@@ -35,7 +32,7 @@ The implementation is structured as follows:
 - Model Training
 - Model Evaluation
 
-## 7. Training Setup Explained
+## 6. Training Setup Explained
 ### Cross-Validation
 - **Method**: Stratified K-Fold
 - **Configuration**: 5 Folds; 1st fold used for validation
