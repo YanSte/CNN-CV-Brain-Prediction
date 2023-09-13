@@ -53,3 +53,5 @@ The implementation is structured as follows:
 
 ### Model Architecture
 - **Model**: DeepScanModel (3D CNN)
+
+<img width="500" alt="model" src="https://github.com/YanSte/CNN-CV-Brain-Prediction/assets/6950194/8a76fa90-8fc8-4be9-a35a-6dafd2215103">
