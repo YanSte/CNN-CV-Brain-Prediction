@@ -1,4 +1,4 @@
-# | CNN | CV | Brain | Classification
+# | CNN | CV | Brain | Prediction
 
 [Kaggle](https://www.kaggle.com/code/yannicksteph/cnn-cv-brain-classification)
 
