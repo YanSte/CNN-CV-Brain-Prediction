@@ -5,11 +5,10 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset Overview](#dataset-overview)
-3. [Research Efforts](#research-efforts)
-4. [Objectives](#objectives)
-5. [References and Research Sources](#references-and-research-sources)
-6. [Implementation](#implementation)
-7. [Training Setup Explained](#training-setup-explained)
+3. [Objectives](#objectives)
+4. [References and Research Sources](#references-and-research-sources)
+5. [Implementation](#implementation)
+6. [Training Setup Explained](#training-setup-explained)
 
 ## 1. Introduction
 The primary goal of this project is to facilitate the diagnosis and treatment of glioblastoma, a severe form of brain cancer. By leveraging radiogenomics and MRI scans, we aim to predict the genetic profile of the tumor, focusing on the presence of MGMT promoter methylation—a key prognostic factor. This project is part of a competition organized by RSNA and MICCAI, making it a timely and impactful endeavor.
