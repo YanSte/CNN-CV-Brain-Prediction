@@ -1,6 +1,6 @@
 # | CNN | CV | Brain | Prediction
 
-[Kaggle](https://www.kaggle.com/code/yannicksteph/cnn-cv-brain-classification)
+[Kaggle](https://www.kaggle.com/code/yannicksteph/cnn-cv-brain-prediction)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -49,9 +49,10 @@ The implementation is structured as follows:
 - **Epochs**: 32
 - **Optimizer**: SGD with learning rate 0.001
 - **Loss Function**: Binary Cross-Entropy
+
 - **Metrics**: AUC
 
 ### Model Architecture
 - **Model**: DeepScanModel (3D CNN)
 
-<img width="500" alt="model" src="https://github.com/YanSte/CNN-CV-Brain-Prediction/assets/6950194/8a76fa90-8fc8-4be9-a35a-6dafd2215103">
+<img width="500" alt="model" src="https://github.com/YanSte/CNN-CV-Brain-Prediction/assets/6950194/31aee031-58fe-47d2-a1fc-30bd775b31f7">
