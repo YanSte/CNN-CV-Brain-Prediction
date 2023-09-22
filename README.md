@@ -20,7 +20,14 @@ Data is sourced from RSNA and MICCAI, two reputable organizations in the medical
 - To predict the MGMT promoter methylation status of glioblastoma tumors between values of 0 and 1.
 
 ## 4. References and Research Sources
-- [Various papers and articles](#)
+- MGMT
+    - [Is it Possible to Predict MGMT Promoter Methylation from Brain Tumor MRI Scans using Deep Learning Models](https://arxiv.org/abs/2201.06086)
+    - [Automatic Prediction of MGMT Status in Glioblastoma via Deep Learning-Based MR Image Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530505/)
+    - [MRI-Based Deep-Learning Method for Determining Glioma MGMT Promoter Methylation Status](https://www.ajnr.org/content/42/5/845.abstract)
+    - [Improving MGMT methylation status prediction of glioblastoma through optimizing radiomics features using genetic algorithm-based machine learning approach](https://www.nature.com/articles/s41598-022-17707-w)
+- Data augmentation
+    - [Data augmentation for deep learning based accelerated MRI reconstruction with limited data](https://arxiv.org/abs/2106.14947)
+    - [Data augmentation: how to overcome small radiology datasets](https://www.quantib.com/blog/image-augmentation-how-to-overcome-small-radiology-datasets?hs_amp=true)
 
 ## 6. Implementation
 The implementation is structured as follows:
